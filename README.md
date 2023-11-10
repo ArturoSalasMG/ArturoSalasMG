@@ -27,7 +27,7 @@
 <p align=center>
   <b>
         <i class="fas fa-envelope"></i>
-        You can write me at [<a href="mailto:arturosalasmg@gmail.com">e-mail</a>]
+        Escribe me: [<a href="mailto:arturosalasmg@gmail.com">e-mail</a>]
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
         <!--<i class="fab fa-linkedin"></i>
         You can see in [<a href="#">LinkedIn</a>]-->
