@@ -8,6 +8,7 @@
  <h2>Acerca de</h2>
  
  <ul >
+  <li>En proceso de Titulación.</li>
   <li>Apasionado desarrollador front-end autodidacta.</li>
   <li>Jugar videojuegos en el tiempo libre.</li>
   <li>Actualmente aprendiendo Desarrollo Web por cuenta propia.</li>
