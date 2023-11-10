@@ -5,7 +5,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=25&pause=1000&color=379AFF&center=true&random=false&width=435&lines=Desarrollador+Web" alt="Typing SVG" /></a>
  </p>
  
- <h2>Acerca de</h2>
+ <h2>About</h2>
  
  <ul >
   <li>En proceso de Titulación.</li>
@@ -50,7 +50,7 @@
     
 <br>
 
-- **Base de Datos**:
+- **Data Bases**:
   
      ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  
