@@ -5,7 +5,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=25&pause=1000&color=379AFF&center=true&random=false&width=435&lines=Desarrollador+Web" alt="Typing SVG" /></a>
  </p>
  
- <h2>About</h2>
+ <h2>Acerca de mi</h2>
  
  <ul >
   <li>En proceso de Titulación.</li>
@@ -14,7 +14,7 @@
   <li>Actualmente aprendiendo Desarrollo Web por cuenta propia.</li>
  </ul>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Habilidades</b>
 <br>
 
 <p align="center">
